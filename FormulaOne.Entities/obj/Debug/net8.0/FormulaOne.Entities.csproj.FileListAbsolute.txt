@@ -1,0 +1,11 @@
+C:\Projects\.NET\FormulaOne\FormulaOne.Entities\bin\Debug\net8.0\FormulaOne.Entities.deps.json
+C:\Projects\.NET\FormulaOne\FormulaOne.Entities\bin\Debug\net8.0\FormulaOne.Entities.dll
+C:\Projects\.NET\FormulaOne\FormulaOne.Entities\bin\Debug\net8.0\FormulaOne.Entities.pdb
+C:\Projects\.NET\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\.NET\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.AssemblyInfoInputs.cache
+C:\Projects\.NET\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.AssemblyInfo.cs
+C:\Projects\.NET\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.csproj.CoreCompileInputs.cache
+C:\Projects\.NET\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.dll
+C:\Projects\.NET\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\refint\FormulaOne.Entities.dll
+C:\Projects\.NET\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.pdb
+C:\Projects\.NET\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\ref\FormulaOne.Entities.dll
