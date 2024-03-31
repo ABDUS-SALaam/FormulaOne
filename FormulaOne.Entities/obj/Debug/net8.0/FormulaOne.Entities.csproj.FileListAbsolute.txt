@@ -9,3 +9,15 @@ C:\Projects\.NET\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Enti
 C:\Projects\.NET\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\refint\FormulaOne.Entities.dll
 C:\Projects\.NET\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.pdb
 C:\Projects\.NET\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\ref\FormulaOne.Entities.dll
+D:\learning\FormulaOne\FormulaOne.Entities\bin\Debug\net8.0\FormulaOne.Entities.deps.json
+D:\learning\FormulaOne\FormulaOne.Entities\bin\Debug\net8.0\FormulaOne.Entities.dll
+D:\learning\FormulaOne\FormulaOne.Entities\bin\Debug\net8.0\FormulaOne.Entities.pdb
+D:\learning\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.AssemblyInfoInputs.cache
+D:\learning\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.AssemblyInfo.cs
+D:\learning\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.csproj.CoreCompileInputs.cache
+D:\learning\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.sourcelink.json
+D:\learning\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.dll
+D:\learning\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\refint\FormulaOne.Entities.dll
+D:\learning\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.pdb
+D:\learning\FormulaOne\FormulaOne.Entities\obj\Debug\net8.0\ref\FormulaOne.Entities.dll

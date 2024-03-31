@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\.NET\\FormulaOne\\FormulaOne.API\\FormulaOne.API.csproj": {}
+    "D:\\learning\\FormulaOne\\FormulaOne.API\\FormulaOne.API.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\.NET\\FormulaOne\\FormulaOne.API\\FormulaOne.API.csproj": {
+    "D:\\learning\\FormulaOne\\FormulaOne.API\\FormulaOne.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\.NET\\FormulaOne\\FormulaOne.API\\FormulaOne.API.csproj",
+        "projectUniqueName": "D:\\learning\\FormulaOne\\FormulaOne.API\\FormulaOne.API.csproj",
         "projectName": "FormulaOne.API",
-        "projectPath": "C:\\Projects\\.NET\\FormulaOne\\FormulaOne.API\\FormulaOne.API.csproj",
-        "packagesPath": "C:\\Users\\salaam.m\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\.NET\\FormulaOne\\FormulaOne.API\\obj\\",
+        "projectPath": "D:\\learning\\FormulaOne\\FormulaOne.API\\FormulaOne.API.csproj",
+        "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
+        "outputPath": "D:\\learning\\FormulaOne\\FormulaOne.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\salaam.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projects\\.NET\\FormulaOne\\FormulaOne.DataService\\FormulaOne.DataService.csproj": {
-                "projectPath": "C:\\Projects\\.NET\\FormulaOne\\FormulaOne.DataService\\FormulaOne.DataService.csproj"
+              "D:\\learning\\FormulaOne\\FormulaOne.DataService\\FormulaOne.DataService.csproj": {
+                "projectPath": "D:\\learning\\FormulaOne\\FormulaOne.DataService\\FormulaOne.DataService.csproj"
               }
             }
           }
@@ -49,6 +49,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.3, )"
@@ -58,6 +70,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -87,17 +103,17 @@
         }
       }
     },
-    "C:\\Projects\\.NET\\FormulaOne\\FormulaOne.DataService\\FormulaOne.DataService.csproj": {
+    "D:\\learning\\FormulaOne\\FormulaOne.DataService\\FormulaOne.DataService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\.NET\\FormulaOne\\FormulaOne.DataService\\FormulaOne.DataService.csproj",
+        "projectUniqueName": "D:\\learning\\FormulaOne\\FormulaOne.DataService\\FormulaOne.DataService.csproj",
         "projectName": "FormulaOne.DataService",
-        "projectPath": "C:\\Projects\\.NET\\FormulaOne\\FormulaOne.DataService\\FormulaOne.DataService.csproj",
-        "packagesPath": "C:\\Users\\salaam.m\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\.NET\\FormulaOne\\FormulaOne.DataService\\obj\\",
+        "projectPath": "D:\\learning\\FormulaOne\\FormulaOne.DataService\\FormulaOne.DataService.csproj",
+        "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
+        "outputPath": "D:\\learning\\FormulaOne\\FormulaOne.DataService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\salaam.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,8 +127,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projects\\.NET\\FormulaOne\\FormulaOne.Entities\\FormulaOne.Entities.csproj": {
-                "projectPath": "C:\\Projects\\.NET\\FormulaOne\\FormulaOne.Entities\\FormulaOne.Entities.csproj"
+              "D:\\learning\\FormulaOne\\FormulaOne.Entities\\FormulaOne.Entities.csproj": {
+                "projectPath": "D:\\learning\\FormulaOne\\FormulaOne.Entities\\FormulaOne.Entities.csproj"
               }
             }
           }
@@ -138,15 +154,15 @@
               "target": "Package",
               "version": "[8.0.3, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.3, )"
-            },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
-              "target": "Package",
-              "version": "[8.0.2, )"
             }
           },
           "imports": [
@@ -169,17 +185,17 @@
         }
       }
     },
-    "C:\\Projects\\.NET\\FormulaOne\\FormulaOne.Entities\\FormulaOne.Entities.csproj": {
+    "D:\\learning\\FormulaOne\\FormulaOne.Entities\\FormulaOne.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\.NET\\FormulaOne\\FormulaOne.Entities\\FormulaOne.Entities.csproj",
+        "projectUniqueName": "D:\\learning\\FormulaOne\\FormulaOne.Entities\\FormulaOne.Entities.csproj",
         "projectName": "FormulaOne.Entities",
-        "projectPath": "C:\\Projects\\.NET\\FormulaOne\\FormulaOne.Entities\\FormulaOne.Entities.csproj",
-        "packagesPath": "C:\\Users\\salaam.m\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\.NET\\FormulaOne\\FormulaOne.Entities\\obj\\",
+        "projectPath": "D:\\learning\\FormulaOne\\FormulaOne.Entities\\FormulaOne.Entities.csproj",
+        "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
+        "outputPath": "D:\\learning\\FormulaOne\\FormulaOne.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\salaam.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
